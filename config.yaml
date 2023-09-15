@@ -1,0 +1,8 @@
+folderin: /home/user/tst
+folderout: /home/user/out
+folderext: /home/user/folder1
+folderbad: /home/user/folder2
+load_pc: /proc/loadavg
+correct_dir: /home/user/PycharmProjects/pythonProject/Seminars/Seminar_3/Homework/stat.txt
+count: 5
+bs: 1K
